@@ -22,6 +22,6 @@ class Solution {
             count += right-left+1;
             right++;
         }
-        return count; //
+        return count; 
     }
 }
