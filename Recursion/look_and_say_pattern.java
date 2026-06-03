@@ -20,6 +20,6 @@ class Solution {
             int len = j-i;
             ans += len;
             ans += s.charAt(i);
-        return ans;
+        return ans; 
     }
 }
